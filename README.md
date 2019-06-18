@@ -6,6 +6,10 @@ Support for the DHT11 and DHT22 temperature and humidity sensor.
 **This plugin requires the [BCM2835](http://www.airspayce.com/mikem/bcm2835/) 
 library to be installed on your Raspberry Pi before you can actually use this module.!**
 
+### Installation
+
+Use npm install pimatic-dht-sensors, because with the sudo command, the installation will fail
+
 ### Plugin Configuration
 
 Add the plugin to the plugin section:
